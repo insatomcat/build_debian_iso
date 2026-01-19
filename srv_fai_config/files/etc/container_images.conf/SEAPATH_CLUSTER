@@ -5,3 +5,4 @@
 
 quay.io/ceph/ceph:v20.2.0
 docker.io/library/registry:2
+docker.io/insatomcat/ha-cluster-exporter:latest

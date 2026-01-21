@@ -7,3 +7,4 @@ ghcr.io/inovex/prometheus-libvirt-exporter:2.3.1
 quay.io/prometheus/node-exporter:latest
 docker.io/insatomcat/insatomcat-exporter:latest
 docker.io/google/cadvisor:latest
+quay.io/navidys/prometheus-podman-exporter:latest
